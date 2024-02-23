@@ -1,5 +1,11 @@
+const count = require('text-count');
+
 function Acerift() {
-  return "A C E R I F T"
+  const text = "A C E R I F T"
+  return {
+    text,
+    length: count.charCount(text)
+  }
 }
 
 
