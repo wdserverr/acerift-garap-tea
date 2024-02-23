@@ -10,7 +10,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["acerift"],
+  "keywords": [
+    "acerift"
+  ],
   "author": "acerift",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "text-count": "^1.1.0"
+  }
 }
