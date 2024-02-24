@@ -1,21 +1,19 @@
 {
-  "name": "acerift-garap-tea",
-  "version": "1.0.1",
-  "description": "",
+  "name": "jonodoko",
+  "version": "0.0.1",
+  "description": "Just a raw script returning J H O N C E N A",
   "main": "index.js",
-  "homepage": "https://t.me/acerift",
+  "homepage": "https://github.com/projects-serum/acerift-garap-tea/blob/main/README.md",
   "repository": {
-    "url": "https://github.com/wdserverr/acerift-garap-tea.git"
+    "url": "https://github.com/projects-serum/acerift-garap-tea.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "acerift"
-  ],
-  "author": "acerift",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "text-count": "^1.1.0"
+    "acerift-garap-tea": "^1.0.1"
   }
 }
